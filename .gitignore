@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.rsuser
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Logs
+*.log
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Others
+*.dbmdl
+*.bak
+*.sql
+*.Cache
