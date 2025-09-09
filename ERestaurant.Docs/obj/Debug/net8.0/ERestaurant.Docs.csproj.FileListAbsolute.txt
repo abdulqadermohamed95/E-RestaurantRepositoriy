@@ -1,0 +1,11 @@
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\bin\Debug\net8.0\ERestaurant.Docs.deps.json
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\bin\Debug\net8.0\ERestaurant.Docs.dll
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\bin\Debug\net8.0\ERestaurant.Docs.pdb
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\ERestaurant.Docs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\ERestaurant.Docs.AssemblyInfoInputs.cache
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\ERestaurant.Docs.AssemblyInfo.cs
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\ERestaurant.Docs.csproj.CoreCompileInputs.cache
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\ERestaurant.Docs.dll
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\refint\ERestaurant.Docs.dll
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\ERestaurant.Docs.pdb
+D:\Projects\E-RestaurantRepo\ERestaurant.Docs\obj\Debug\net8.0\ref\ERestaurant.Docs.dll

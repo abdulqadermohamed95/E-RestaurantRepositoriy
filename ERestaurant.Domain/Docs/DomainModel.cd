@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ERestaurant.Domain.Entities.Materials.Material">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAAAQAgAAAAMCAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Materials\Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERestaurant.Domain.Common.BaseEntity" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAAAAAAAAAAAAAAAAAAACAAAAIAAgAQAAAAE=</HashCode>
+      <FileName>Common\BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERestaurant.Domain.Entities.Combos.Combo">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAAAQAgAAAAECAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entities\Combos\Combo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERestaurant.Domain.Entities.Orders.Order">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAAYAAAEAAAAAUAAAAEAAQAAAAgAAAAAAAgAAAAA=</HashCode>
+      <FileName>Entities\Orders\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderItem">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sAEAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entities\Orders\OrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERestaurant.Domain.Entities.Combos.ComboMaterial" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gEACAAAAAAAAAAAACAQAAAAAAAAAAAAAIAAAgAAAAAA=</HashCode>
+      <FileName>Entities\Combos\ComboMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
