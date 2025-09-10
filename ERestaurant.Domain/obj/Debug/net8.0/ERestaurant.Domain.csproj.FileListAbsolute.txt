@@ -20,3 +20,15 @@ D:\Projects\E-RestaurantRepo\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Dom
 D:\Projects\E-RestaurantRepo\ERestaurant.Domain\obj\Debug\net8.0\refint\ERestaurant.Domain.dll
 D:\Projects\E-RestaurantRepo\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.pdb
 D:\Projects\E-RestaurantRepo\ERestaurant.Domain\obj\Debug\net8.0\ref\ERestaurant.Domain.dll
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\bin\Debug\net8.0\ERestaurant.Domain.deps.json
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\bin\Debug\net8.0\ERestaurant.Domain.dll
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\bin\Debug\net8.0\ERestaurant.Domain.pdb
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.AssemblyInfoInputs.cache
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.AssemblyInfo.cs
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.csproj.CoreCompileInputs.cache
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.sourcelink.json
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.dll
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\refint\ERestaurant.Domain.dll
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ERestaurant.Domain.pdb
+D:\E-RestaurantRepositoriy\ERestaurant.Domain\obj\Debug\net8.0\ref\ERestaurant.Domain.dll

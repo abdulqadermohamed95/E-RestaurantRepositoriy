@@ -27,8 +27,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERestaurant.Infrastructure"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERestaurant.Tests", "ERestaurant.Tests\ERestaurant.Tests.csproj", "{5499F311-45DC-EE06-03C8-F5976730C2B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERestaurant.Docs", "ERestaurant.Docs\ERestaurant.Docs.csproj", "{91691881-9B8B-B08D-C729-23B4BC11D125}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,10 +53,6 @@ Global
 		{5499F311-45DC-EE06-03C8-F5976730C2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5499F311-45DC-EE06-03C8-F5976730C2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5499F311-45DC-EE06-03C8-F5976730C2B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91691881-9B8B-B08D-C729-23B4BC11D125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91691881-9B8B-B08D-C729-23B4BC11D125}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91691881-9B8B-B08D-C729-23B4BC11D125}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91691881-9B8B-B08D-C729-23B4BC11D125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
