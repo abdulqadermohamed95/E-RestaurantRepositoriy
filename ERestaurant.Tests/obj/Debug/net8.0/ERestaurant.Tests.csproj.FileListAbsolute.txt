@@ -320,9 +320,9 @@ D:\Projects\E-RestaurantRepo\ERestaurant.Tests\obj\Debug\net8.0\ERestaurant.Test
 D:\Projects\E-RestaurantRepo\ERestaurant.Tests\obj\Debug\net8.0\ref\ERestaurant.Tests.dll
 D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_ERestaurant.Tests
 D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_ERestaurant.Tests
-D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\testhost.exe
 D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\testhost.dll
 D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\testhost.exe
 D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\ERestaurant.Tests.deps.json
 D:\E-RestaurantRepositoriy\ERestaurant.Tests\bin\Debug\net8.0\ERestaurant.Tests.runtimeconfig.json

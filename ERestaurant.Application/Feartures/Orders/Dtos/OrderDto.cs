@@ -1,6 +1,6 @@
 ﻿namespace ERestaurant.Application.Feartures.Orders.Dtos
 {
-    public class OrderDto
+    public record OrderDto
     {
         public Guid Id { get; set; }
         public string OrderNumber { get; set; } = string.Empty;

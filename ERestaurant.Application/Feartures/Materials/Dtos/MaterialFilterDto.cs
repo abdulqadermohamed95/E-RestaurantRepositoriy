@@ -2,7 +2,7 @@
 
 namespace ERestaurant.Application.Feartures.Materials.Dtos
 {
-    public class MaterialFilterDto
+    public record MaterialFilterDto
     {
         public string? Name { get; set; }    
         public UnitType? Unit { get; set; }

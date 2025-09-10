@@ -1,6 +1,6 @@
 ﻿namespace ERestaurant.Application.Feartures.Orders.Dtos
 {
-    public class OrderItemDto
+    public record OrderItemDto
     {
         public Guid? MaterialId { get; set; }
         public Guid? ComboId { get; set; }

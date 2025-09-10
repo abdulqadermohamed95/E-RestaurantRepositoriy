@@ -1,6 +1,6 @@
 ﻿namespace ERestaurant.Application.Feartures.Combos.Dtos
 {
-    public class ComboDto
+    public record ComboDto
     {
         public Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;

@@ -1,6 +1,6 @@
 ﻿namespace ERestaurant.Application.Feartures.Combos.Dtos
 {
-    public class ComboFilterDto
+    public record ComboFilterDto
     {
         public string? Name { get; set; }
         public bool? IsActive { get; set; }

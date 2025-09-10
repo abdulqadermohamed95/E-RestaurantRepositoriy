@@ -1,6 +1,6 @@
 ﻿namespace ERestaurant.Application.Feartures.Combos.Dtos
 {
-    public class CreateUpdateComboDto
+    public record CreateUpdateComboDto
     {
         public required string NameAr { get; set; }
         public required string NameEn { get; set; }
@@ -11,5 +11,4 @@
 
         public List<ComboMaterialDto> Materials { get; set; } = new();
     }
-
 }

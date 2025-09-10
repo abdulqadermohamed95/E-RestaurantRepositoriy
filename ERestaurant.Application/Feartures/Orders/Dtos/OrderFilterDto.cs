@@ -1,6 +1,6 @@
 ﻿namespace ERestaurant.Application.Feartures.Orders.Dtos
 {
-    public class OrderFilterDto
+    public record OrderFilterDto
     {
         public string? CustomerName { get; set; }
         public DateTime? FromDate { get; set; }

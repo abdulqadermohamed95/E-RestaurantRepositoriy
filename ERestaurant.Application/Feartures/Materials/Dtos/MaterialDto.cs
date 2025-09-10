@@ -2,7 +2,7 @@
 
 namespace ERestaurant.Application.Feartures.Materials.Dtos
 {
-    public class MaterialDto
+    public record MaterialDto
     {
         public Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;

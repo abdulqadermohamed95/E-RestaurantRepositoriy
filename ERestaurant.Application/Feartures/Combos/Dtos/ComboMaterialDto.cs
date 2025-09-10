@@ -2,7 +2,7 @@
 
 namespace ERestaurant.Application.Feartures.Combos.Dtos
 {
-    public class ComboMaterialDto
+    public record ComboMaterialDto
     {
         public Guid MaterialId { get; set; }
         public int Quantity { get; set; }
