@@ -37,9 +37,6 @@ namespace ERestaurant.Infrastructure.Persistence
             modelBuilder.ApplyConfiguration(new OrderConfig());
             modelBuilder.ApplyConfiguration(new OrderItemConfig());
 
-            //modelBuilder.Entity<Order>()
-            //   .HasQueryFilter(o => o.TenantId == _currentUserService.TenantId);
-
             base.OnModelCreating(modelBuilder);
         }
 
